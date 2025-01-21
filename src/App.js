@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aravind E react app
+          Aravind REACT PROJECT
         </a>
       </header>
     </div>
